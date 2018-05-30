@@ -6,6 +6,8 @@
 //  Copyright © 2018 Anuran Ghosh. All rights reserved.
 //
 
+//  https://medium.com/swiftly-swift/swift-4-decodable-beyond-the-basics-990cc48b7375
+// http://roadfiresoftware.com/2018/02/how-to-parse-json-with-swift-4/
 import Foundation
 
 class jsonParser{
