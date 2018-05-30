@@ -83,8 +83,9 @@ class testArray{
             print("First value in dictionary is : \(firstCountry)")
         }
         
-        var i = countryCodes.index(forKey: "BR")
-        print(i)
+        if let val =  countryCodes["GH"]{
+            print(val)
+        }
         
         
         
